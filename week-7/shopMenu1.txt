@@ -1,0 +1,12 @@
+10
+cheese steak 55
+potato steak 40
+veg steak 45
+fried potato 35
+veg sandwiches 50
+cheese burger 75
+chicken burger 75
+green salads 40
+black coffee 5
+milk coffee 7.50
+
